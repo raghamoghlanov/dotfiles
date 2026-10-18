@@ -2,6 +2,8 @@
 <code>
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 </code>
+### Install RayCast
+<code>brew install --cask raycast</code>
 
 ### Install Chrome
 <code>brew install --cask google-chrome</code>

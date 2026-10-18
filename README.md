@@ -18,6 +18,12 @@
 ### Install Cursor 
 <code>brew install --cask cursor</code>
 
+### Install VS Code
+brew install --cask visual-studio-cod
+
+### Install Claude
+brew install --cask claude
+
 ### Install Slack 
 <code>brew install --cask slack</code>
 
@@ -25,7 +31,7 @@
 <code>brew install --cask tableplus</code>
 
 ### Install Postgres
-<code>brew install --case postgres@17</code>
+<code>brew install postgres@18</code>
 
 ### Install oh-my-zsh
 <code>sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"</code>

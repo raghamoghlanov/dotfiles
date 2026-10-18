@@ -39,6 +39,9 @@
 ### Install oh-my-zsh
 <code>sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"</code>
 
+### Install Notion
+<code>brew install --cask notion</code>
+
 ### Install NVM (Node Version Management)
 <code>brew update && brew install nvm</code>
 You should create NVM's working directory if it doesn't exist: `mkdir ~/.nvm`

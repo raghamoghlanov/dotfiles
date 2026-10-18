@@ -19,10 +19,10 @@
 <code>brew install --cask cursor</code>
 
 ### Install VS Code
-brew install --cask visual-studio-cod
+<code>brew install --cask visual-studio-code</code>
 
 ### Install Claude
-brew install --cask claude
+<code>brew install --cask claude</code>
 
 ### Install Slack 
 <code>brew install --cask slack</code>
